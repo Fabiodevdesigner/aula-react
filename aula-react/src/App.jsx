@@ -6,7 +6,10 @@ function App() {
   
   return (
     <>
-      <Usuario nome='babinha'/>
+      <Usuario nome='Ezequiel' cidade='miami' idade='18'/>
+      <br></br>
+      <br></br>
+      <Usuario nome='Israel' cidade='new york' idade='17'/>
     </>
   )
 }
